@@ -1,4 +1,4 @@
-# RainMLProject
+# Machine Learning Rain Prediction Model
 
 The aim of this project is to build and identify the best binary classification model predicting rainfall in Australia using five common algorithms (logistic regression, support vector machine, decision tree, random forest, XGBoost). The dataset used in this project describes variables such as temperature, wind and humidity with labels indicating whether it rained that day or the day after. 
 
